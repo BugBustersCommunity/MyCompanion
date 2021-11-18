@@ -1,4 +1,4 @@
-# my_companion
+# MyCompanion
 
 The project focuses on building a mental health tracker. We will try to get an idea of the mental state of our user (in the least intrusive ways), find out if they are suffering and then suggest measures they can take to get out of their present condition. A user answers some questions and based on the answers that they provide, we will suggest tasks to them and maintain a record of their mental state for displaying on a dashboard.
 
@@ -21,19 +21,19 @@ samples, guidance on mobile development, and a full API reference.
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone --depth 1 https://github.com/<your_user_name>/share-app.git
+git clone --depth 1 https://github.com/<your-username>/MyCompanion.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd share-app
+cd my_companion
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/Aditi-Singh16/share-app.git
+git remote add upstream https://github.com/BugBustersCommunity/MyCompanion.git
 ```
 
 **5.** Check the remotes for this repository.
