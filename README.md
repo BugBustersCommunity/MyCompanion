@@ -1,6 +1,6 @@
 # my_companion
 
-A new Flutter project.
+The project focuses on building a mental health tracker. We will try to get an idea of the mental state of our user (in the least intrusive ways), find out if they are suffering and then suggest measures they can take to get out of their present condition. A user answers some questions and based on the answers that they provide, we will suggest tasks to them and maintain a record of their mental state for displaying on a dashboard.
 
 ## Getting Started
 
@@ -14,4 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 # MyCompanion
